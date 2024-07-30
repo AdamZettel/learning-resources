@@ -6,3 +6,5 @@ A collection of learning resources that I have gradually discovered.
 - [Implicit Layers](http://implicit-layers-tutorial.org)
 - [MiniTorch](https://minitorch.github.io)
   
+## Physics Informed Neural Networks
+- [Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
