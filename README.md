@@ -5,6 +5,7 @@ A collection of learning resources that I have gradually discovered.
 - [Dive into Deep Learning](https://d2l.ai)
 - [Implicit Layers](http://implicit-layers-tutorial.org)
 - [MiniTorch](https://minitorch.github.io)
+- [Dr. Pankaj Mehta's Machine Learning Notebooks](http://physics.bu.edu/~pankajm/ML-Notebooks/)
   
 ## Physics Informed Neural Networks
 - [Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
