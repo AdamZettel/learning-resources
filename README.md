@@ -8,4 +8,4 @@ A collection of learning resources that I have gradually discovered.
 - [Dr. Pankaj Mehta's Machine Learning Notebooks](http://physics.bu.edu/~pankajm/ML-Notebooks/)
   
 ## Physics Informed Neural Networks
-- [Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
+- [Dr. Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
