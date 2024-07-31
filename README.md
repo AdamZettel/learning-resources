@@ -10,3 +10,6 @@ A collection of learning resources that I have gradually discovered.
   
 ## Physics Informed Neural Networks
 - [Dr. Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
+
+## Informative Websites
+- [12000.org](https://www.12000.org/)
