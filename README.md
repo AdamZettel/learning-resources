@@ -11,9 +11,12 @@ A collection of learning resources that I have gradually discovered.
 ## AI Math
 - [aman.ai](https://aman.ai/primers/math/)
   
-## Physics Informed Neural Networks
+## Physics and Neural Networks
 - [Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
 - [Morten Hjorth-Jensen's Tutorial for Solving ODEs](https://compphysics.github.io/CompSciProgram/doc/pub/week6/html/week6-bs.html)
+- [Physics-based Deep Learning](https://physicsbaseddeeplearning.org/intro.html)
 
 ## Informative Websites
 - [12000.org](https://www.12000.org/)
+
+## 
