@@ -7,6 +7,9 @@ A collection of learning resources that I have gradually discovered.
 - [MiniTorch](https://minitorch.github.io)
 - [Pankaj Mehta's Machine Learning Notebooks](http://physics.bu.edu/~pankajm/ML-Notebooks/)
 - [Christian Versloot's Machine Learning Articles](https://github.com/christianversloot/machine-learning-articles/tree/main)
+
+## AI Math
+- [aman.ai](https://aman.ai/primers/math/)
   
 ## Physics Informed Neural Networks
 - [Ben Moseley's PINN Workshop](https://github.com/benmoseley/harmonic-oscillator-pinn-workshop)
