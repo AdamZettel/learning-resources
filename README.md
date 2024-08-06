@@ -19,4 +19,5 @@ A collection of learning resources that I have gradually discovered.
 ## Informative Websites
 - [12000.org](https://www.12000.org/)
 
-## 
+## Partial Differential Equations
+- [PDE MOOC](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/01_Introduction/01_00_Preface.html)
