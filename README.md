@@ -21,3 +21,6 @@ A collection of learning resources that I have gradually discovered.
 
 ## Partial Differential Equations
 - [PDE MOOC](https://aquaulb.github.io/book_solving_pde_mooc/solving_pde_mooc/notebooks/01_Introduction/01_00_Preface.html)
+
+## Computational Chemistry
+- [Computational Chemistry Tutorial](https://pycrawfordprogproj.readthedocs.io/en/latest/Project_01/Project_01.html)
