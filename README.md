@@ -26,4 +26,5 @@ A collection of learning resources that I have gradually discovered.
 - [Computational Chemistry Tutorial](https://pycrawfordprogproj.readthedocs.io/en/latest/Project_01/Project_01.html)
 
 ## Plotting
-- [Matplotlib Animation](https://www.youtube.com/watch?v=nT16-yQrnFk)
+- [Matplotlib Animation Tutorial](https://www.youtube.com/watch?v=nT16-yQrnFk)
+- [Celluloid Package (Easy Matplotlib Animation)](https://github.com/jwkvam/celluloid)
