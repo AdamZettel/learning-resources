@@ -24,6 +24,7 @@ A collection of learning resources that I have gradually discovered.
 
 ## Computational Chemistry
 - [Computational Chemistry Tutorial](https://pycrawfordprogproj.readthedocs.io/en/latest/Project_01/Project_01.html)
+- [LAPW and APW code](https://github.com/aromanro/APW)
 
 ## Plotting
 - [Matplotlib Animation Tutorial](https://www.youtube.com/watch?v=nT16-yQrnFk)
